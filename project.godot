@@ -1,0 +1,25 @@
+; Engine configuration file.
+; Shadow Shift - Godot 4.x project
+
+config_version=5
+
+[application]
+
+config/name="Shadow Shift"
+config/description="A short atmospheric platform-puzzle game: shift between Light and Shadow to reveal the path to the exit."
+run/main_scene="res://game.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.03, 0.02, 0.06, 1)
