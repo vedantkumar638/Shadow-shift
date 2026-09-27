@@ -6,7 +6,7 @@ A short, atmospheric 2D platform-puzzle game made in **Godot 4.7.2**. A small ho
 
 Press **Shift** to switch. Violet platforms exist only in the Shadow and amber platforms only in the Light. Whatever you are standing on disappears when you shift, so the trick is to **jump first and shift in mid-air**.
 
-**▶ Play in your browser:** [itch.io page](YOUR-ITCH-LINK)
+**▶ Play in your browser:** [itch.io page](https://vedant-cedar.itch.io/shadow-shifty)
 
 ## What's inside
 
